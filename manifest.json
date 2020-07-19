@@ -1,0 +1,7 @@
+{
+  "domain": "idfm",
+  "name": "Régie Autonome des Transports Parisiens",
+  "documentation": "https://www.home-assistant.io/integrations/???",
+  "requirements": [],
+  "codeowners": ["norbert@vassy.com"]
+}
